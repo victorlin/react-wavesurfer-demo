@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-wavesurfer-demo/static/css/main.795991f2.chunk.css",
-    "main.js": "/react-wavesurfer-demo/static/js/main.80697767.chunk.js",
-    "main.js.map": "/react-wavesurfer-demo/static/js/main.80697767.chunk.js.map",
+    "main.js": "/react-wavesurfer-demo/static/js/main.866b3e55.chunk.js",
+    "main.js.map": "/react-wavesurfer-demo/static/js/main.866b3e55.chunk.js.map",
     "runtime~main.js": "/react-wavesurfer-demo/static/js/runtime~main.1f5a3766.js",
     "runtime~main.js.map": "/react-wavesurfer-demo/static/js/runtime~main.1f5a3766.js.map",
     "static/js/2.817f4637.chunk.js": "/react-wavesurfer-demo/static/js/2.817f4637.chunk.js",
     "static/js/2.817f4637.chunk.js.map": "/react-wavesurfer-demo/static/js/2.817f4637.chunk.js.map",
     "index.html": "/react-wavesurfer-demo/index.html",
-    "precache-manifest.195344ab8e959eddebb2cfd15bf148b4.js": "/react-wavesurfer-demo/precache-manifest.195344ab8e959eddebb2cfd15bf148b4.js",
+    "precache-manifest.0772d794857208bba8b6882c68f43294.js": "/react-wavesurfer-demo/precache-manifest.0772d794857208bba8b6882c68f43294.js",
     "service-worker.js": "/react-wavesurfer-demo/service-worker.js",
     "static/css/main.795991f2.chunk.css.map": "/react-wavesurfer-demo/static/css/main.795991f2.chunk.css.map",
     "static/media/piano.mp3": "/react-wavesurfer-demo/static/media/piano.7d93b7db.mp3"

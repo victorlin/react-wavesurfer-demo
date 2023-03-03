@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2b0c4d49f8119908a3534b4352c91ee5",
+    "revision": "7ba0f63823461013d27d9e50b4723154",
     "url": "/react-wavesurfer-demo/index.html"
   },
   {
-    "revision": "178514ad488032c4a3fb",
+    "revision": "d0b53a99a4f2657e118b",
     "url": "/react-wavesurfer-demo/static/css/main.795991f2.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-wavesurfer-demo/static/js/2.817f4637.chunk.js"
   },
   {
-    "revision": "178514ad488032c4a3fb",
-    "url": "/react-wavesurfer-demo/static/js/main.80697767.chunk.js"
+    "revision": "d0b53a99a4f2657e118b",
+    "url": "/react-wavesurfer-demo/static/js/main.866b3e55.chunk.js"
   },
   {
     "revision": "5543fb942e1f90864203",
