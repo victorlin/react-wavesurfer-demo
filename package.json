@@ -2,7 +2,7 @@
   "name": "react-wavesurfer-demo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://andreidobrinski.github.io/react-wavesurfer-demo",
+  "homepage": "https://victorlin.github.io/react-wavesurfer-demo",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.2",

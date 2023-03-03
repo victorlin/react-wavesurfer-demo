@@ -12,7 +12,7 @@ const App = () => {
         <p>
           Made by
           {' '}
-          <Link href="https://andreidobrinski.com">Andrei Dobrinski</Link>
+          <Link href="https://andreidobrinski.com">Andrei Dobrinski</Link> and modified by <Link href="https://victorl.in">Victor Lin</Link>
         </p>
         <p>Check out the
           {' '}
