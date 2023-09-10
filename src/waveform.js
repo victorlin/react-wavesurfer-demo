@@ -12,6 +12,7 @@ const Waveform = ({ audio }) => {
   const [isPlaying, toggleIsPlaying] = useState(false);
 
   useEffect(() => {
+    if (!audio) return;
     const waveSurfer = WaveSurfer.create({
       container: containerRef.current,
       responsive: true,
@@ -19,7 +20,7 @@ const Waveform = ({ audio }) => {
       barHeight: 10,
       cursorWidth: 0,
     });
-    waveSurfer.load(audio);
+    waveSurfer.loadBlob(audio);
     waveSurfer.on('ready', () => {
       waveSurferRef.current = waveSurfer;
     });

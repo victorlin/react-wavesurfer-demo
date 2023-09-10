@@ -1,13 +1,20 @@
-import React from 'react';
+import React, { useState } from 'react';
 import styled from 'styled-components';
+import { FileLoader } from './fileLoader';
 import Waveform from './waveform';
 import pianoClip from './piano.mp3';
 
 const App = () => {
+  const [selectedFile, setSelectedFile] = useState();
+
+  console.log(pianoClip)
+  console.log(selectedFile)
   return (
     <main style={{ padding: '16px' }}>
       <h1>WaveSurfer Demo</h1>
-      <Waveform audio={pianoClip} />
+      <FileLoader setSelectedFile={setSelectedFile} />
+      {selectedFile && selectedFile.name}
+      <Waveform audio={selectedFile} />
       <footer style={{ marginTop: '32px' }}>
         <p>
           Made by
